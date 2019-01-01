@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost:27017/TasksAppTest",
+    "JWT_SECRET": "soirn29c?47vfe8xlcndwgu3yf"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost:27017/TasksApp",
+    "JWT_SECRET": "sl;vb48xlqn209vmrbnfyo2nfi"
+  }
+}
